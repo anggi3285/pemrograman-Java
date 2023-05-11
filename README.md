@@ -1,0 +1,2 @@
+# pengecekanSudutSegitiga
+program java
